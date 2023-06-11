@@ -47,7 +47,11 @@ body {
     cursor: pointer;
 }
 
-.matched {
+.correct {
+    background-color: green;
+}
+
+.incorrect {
     background-color: red;
 }
 
